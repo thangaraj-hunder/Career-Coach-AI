@@ -1,0 +1,10 @@
+{
+  "name": "Cross-Platform Auth & Cloud Sync",
+  "description": "Production-ready authentication system featuring Google Drive cloud sync, JWT security, OAuth social sign-in, user profile management, and admin dashboard.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
